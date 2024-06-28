@@ -1,0 +1,15 @@
+
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").( ´¼âùÿÿÿÿ8„´ñå„2J$2e7ba936-fb34-4d2f-81b0-d92a6656333f
+k
+java:S1604"(Make this anonymous inner class a lambda(İªÓû8…´ñå„2J$316e5f02-7234-471e-9e58-051c10b7740c
+
+java:S1854"9Remove this useless assignment to local variable "lista".( ´¼âùÿÿÿÿ8‰´ñå„2J$7168e1f0-ace2-4a19-8bb4-174e0d1ba2e2
+r	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8‹´ñå„2J$20495a26-bc6d-43ac-9e5d-8a878324c4d6
+r	java:S106"+Replace this use of System.out by a logger.(üŒİØùÿÿÿÿ8´ñå„2J$4ccb5cd1-84a4-4e33-9399-864197b5ce80
+w
+java:S1611"/Remove the parentheses around the "k" parameter(¯¿£öøÿÿÿÿ8‘´ñå„2J$2c28706d-5934-4f03-9226-4a2476b9ac65
+m	java:S106"+Replace this use of System.out by a logger.(É¢»8‘´ñå„2J$d556b677-51a2-4dd3-b4f9-6a6ea3f474f8
+r	java:S106"+Replace this use of System.out by a logger.(Ÿšôâüÿÿÿÿ8’´ñå„2J$d9c0dd1b-c93d-47b3-bb06-7704bbd589a9
+r
+java:S1481"*Remove this unused "lista" local variable.( ´¼âùÿÿÿÿ8”´ñå„2J$7d011d3a-01f4-4c81-a09b-1b1e0d086276

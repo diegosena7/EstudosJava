@@ -1,0 +1,10 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(»ŽøÔýÿÿÿÿ8¤Ñ·æ…2J$bb79e969-96d7-4004-ad96-bd8151d2e496
+r	java:S106"+Replace this use of System.out by a logger.(õú£·ûÿÿÿÿ8¥Ñ·æ…2J$cc4e6baa-c9fa-4c7d-9d43-ad4e9832f06e
+m	java:S106"+Replace this use of System.out by a logger.(¾‡¼ý8§Ñ·æ…2J$fc5cb72c-935e-454b-9c2c-328bc7e9796b
+m	java:S106"+Replace this use of System.out by a logger.(¾‡¼ý8Ÿ«Ïæ…2J$a3d0622e-c1b1-4fb8-af12-32c84c1c1441
+ƒ	java:S125("<This block of commented-out lines of code should be removed.(ý‚™²ûÿÿÿÿ8ªÑ·æ…2J$eaf89049-808b-414f-8b3f-d5517171d403
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ªÑ·æ…2J$cc23df17-1c54-41e4-aca0-66b64462e2ed
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8«Ñ·æ…2J$98139476-68eb-4938-904d-bdd60d618228

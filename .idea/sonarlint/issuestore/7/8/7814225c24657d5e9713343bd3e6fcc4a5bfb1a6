@@ -1,0 +1,27 @@
+
+Š
+java:S1192/"GDefine a constant instead of duplicating this literal "banana" 3 times.(á‹òÜ8´üõ•…2J$68f3474a-dd67-494e-82d0-26d264677391
+‰
+java:S1192/"FDefine a constant instead of duplicating this literal "apple" 5 times.(á‹òÜ8¹“ú•…2J$314b5965-20f7-465d-8197-c04be32a27bd
+p
+java:S1604#"(Make this anonymous inner class a lambda(öí«Óşÿÿÿÿ8æûî•…2J$8e3e7911-473a-4884-8d2d-d2233176fa9e
+Œ
+java:S1854#"DRemove this useless assignment to local variable "stringComparator".(öí«Óşÿÿÿÿ8Ô¹ú•…2J$e1adc271-fce4-4c43-9341-67788764c1af
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ä‘°Úûÿÿÿÿ8”æ‡–…2J$09f6cb4f-77d9-42dd-830c-0df74ac9e8d2
+•
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ôûî•…2J$91926859-80f2-4b82-b9e7-c4b5a8106934
+r	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8õûî•…2J$942c7b21-b21f-400a-ba5b-1fa2a8dc837a
+m	java:S106"+Replace this use of System.out by a logger.(òÔÇÍ8öûî•…2J$d93c05f6-6197-4c78-86d9-e79506717e78
+•
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ùûî•…2J$0cbbce58-a1a9-41dc-aaa4-9378329fabf0
+r	java:S106 "+Replace this use of System.out by a logger.(ùŸ¹²úÿÿÿÿ8ûûî•…2J$10035042-2f97-4238-8d71-43a5ac836de1
+}
+java:S1481#"5Remove this unused "stringComparator" local variable.(öí«Óşÿÿÿÿ8Ş¹ú•…2J$cfcf4550-27df-4a4e-8951-2c0518706b51
+_
+java:S1612."BReplace this lambda with method reference 'Comparable::compareTo'.(‘Ş™å8ƒÄşä…2
+m	java:S106/"+Replace this use of System.out by a logger.(á‹òÜ8Çüõ•…2J$81b3f5bf-3637-4a2f-8285-8563be580fb5
+r	java:S1060"+Replace this use of System.out by a logger.(ˆÊšªşÿÿÿÿ8Çüõ•…2J$ad30f254-b64d-4b6b-9ef5-153e904ea945
+r	java:S1061"+Replace this use of System.out by a logger.(ÙôÇ¸ÿÿÿÿÿ8Èüõ•…2J$25989c1c-3a0a-4d5d-b190-18ff898fe7cf
+r	java:S1065"+Replace this use of System.out by a logger.(²£ßıÿÿÿÿ8Ò“ú•…2J$751c34d6-f5aa-45fc-94ea-aa9f6b187dae
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¡æ‡–…2J$b3a02962-ffd9-4041-be93-484611279761

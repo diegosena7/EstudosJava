@@ -1,0 +1,13 @@
+
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").( ´¼âùÿÿÿÿ8„´ñå„2J$a0bb0bfe-9f83-4604-8ec1-b240b5edf5fb
+
+java:S1854"9Remove this useless assignment to local variable "lista".( ´¼âùÿÿÿÿ8‰´ñå„2J$e7dbf099-ef16-4c89-ade7-6ab48a5a571d
+r	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8‹´ñå„2J$600c14cd-82bd-4066-85c0-fcd5afea3f07
+r	java:S106"+Replace this use of System.out by a logger.(üŒİØùÿÿÿÿ8´ñå„2J$9c8a909a-6d35-437a-8a6d-908ce673c8a4
+w
+java:S1611"/Remove the parentheses around the "k" parameter(¯¿£öøÿÿÿÿ8‘´ñå„2J$107294f3-b76e-43e3-a329-c98108da9aac
+m	java:S106"+Replace this use of System.out by a logger.(É¢»8‘´ñå„2J$86533ded-0a5a-4606-a2e7-ea53c51d2713
+r	java:S106"+Replace this use of System.out by a logger.(Ÿšôâüÿÿÿÿ8’´ñå„2J$1a62cc07-3132-4806-9566-7f7ac28af008
+r
+java:S1481"*Remove this unused "lista" local variable.( ´¼âùÿÿÿÿ8”´ñå„2J$405e48be-9419-4a19-bebe-a0d45a1cff2d
